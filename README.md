@@ -16,7 +16,7 @@ A Library for implementing command line interfaces in Go
 
 * Automatic help flag recognition of `-h`, `--help` etc. 
 
-* Automatic version flag recognition `-`, `--version`
+* Automatic version flag recognition `-v`, `--version`
 
 * Helpers for interacting with the terminal, such as outputing information, 
     aksing for input etc. These are optional, you can always interact with the terminal 
